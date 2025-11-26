@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import LockIcon from './components/LockIcon';
-import KeyIcon from './components/KeyIcon';
+import KeyIcon from './components/KeyIconNEW';
 
 // Import developer avatars
 import nailuyImg from './assets/nailuy.png';
