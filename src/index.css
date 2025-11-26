@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Додамо простенький фон, щоб одразу бачити результат */
+body {
+  @apply bg-gray-900 text-white;
+}
